@@ -9,7 +9,6 @@
     "jsx": "react-jsx",
     "jsxImportSource": "react",
     "allowSyntheticDefaultImports": true,
-    "types": ["node"],
     "outDir": "./dist",
     "rootDir": "./src"
   },
